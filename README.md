@@ -51,7 +51,7 @@ A Practical Dive into ES6 and Maintainable JavaScript Modules — Modular JavaSc
 
 ----
 ### JavaScript OOP
-+[Understanding JavaScript OOP - Sorella ](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
++ [Understanding JavaScript OOP - Sorella ](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
 
 ----
 ## JavaScript Funtional Programing and Reactive Functional Programming
