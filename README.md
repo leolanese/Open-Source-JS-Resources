@@ -2,7 +2,7 @@
 A selected Open Source JS Resource. Please, if you feel any of these book are cool: buy it or support de authors!
 
 ### JavaScript Frameworks and Resources
-+ [Free JavaScript frameworks resources and tutorials - English](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md)
+[Free JavaScript frameworks resources and tutorials - English](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md)
 
 + [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/)
 #### Information:
