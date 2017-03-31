@@ -1,13 +1,63 @@
 # Open-Source-JS-Resources
-A selected Open Source JS Resources place
-
+A selected Open Source JS Resource
 
 ### JavaScript Frameworks and Resources
 + [Free JavaScript frameworks resources and tutorials - English](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md)
 
 + [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/)
-#### Who this book is for:
+#### Information:
 This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
 Thus, the book’s target audience is programmers who want to learn JavaScript quickly and properly, and JavaScript programmers who want to deepen their skills and/or look up specific topics.
 
-+ [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/)
++ [Eloquent JavaScript 2nd edition - Marijn Haverbeke](http://eloquentjavascript.net/)
+#### Information:
+This is a book about JavaScript, programming, and the wonders of the digital. 
+
++ [Exploring ES6 - Dr. Axel Rauschmayer](http://exploringjs.com/es6/)
+#### Information:
+This book is about ECMAScript 6 (whose official name is ECMAScript 2015), a new version of JavaScript.
+
++ [JavaScript Allongé - Reginald Braithwaite](https://leanpub.com/javascript-allonge/read)
+#### Information:
+JavaScript Allongé is a book about programming with functions, because JavaScript is a programming language built on flexible and powerful functions. JavaScript Allongé begins at the beginning, with values and expressions, and builds from there to discuss types, identity, functions, closures, scopes, and many more subjects up to working with classes and instances. In each case, JavaScript Allongé takes care to explain exactly how things work so that when you encounter a problem, you’ll know exactly what is happening and how to fix it.
+
++ [JavaScript Enlightenment - Cody Lindley](https://leanpub.com/javascript-allonge/read)
+#### Information:
+This book is not about JavaScript design patterns or implementing an object-oriented paradigm with JavaScript code. It was not written to distinguish the good features of the JavaScript language from the bad. It is not meant to be a complete reference guide. It is not targeted at people new to programming or those completely new to JavaScript. Nor is this a cookbook of JavaScript recipes. Those books have been written.
+
++ [JavaScript Spessore - Reginald Braithwaite](https://leanpub.com/javascript-spessore)
+#### Information:
+JavaScript Spessore will show you how to build ES5 JavaScript programs that scale in code, in time, and across a team, using the one technique that has passed the test of time: Objects and metaobjects that have a single responsibility, are decoupled from each other, and can be composed freely.
+
+----
+
+## JavaScript ES6
++ [Understanding ECMAScript 6 - Nicholas C. Zakas]( https://leanpub.com/understandinges6/read/ )
+#### Information:
+A good understanding of ECMAScript 6 features is key for all JavaScript developers going forward. The language features introduced in ECMAScript 6 represent the foundation upon which JavaScript applications will be built for the foreseeable future. That’s where this book comes in. My hope is that you’ll read this book to learn about ECMAScript 6 features so that you’ll be ready to start using them as 
+soon as you need to.
+
+----
+
+## JavaScript Funtional Programing Patterns and Best Practices
++ [Mostly adequate guide to funcional programming - Professor Frisby]( https://github.com/MostlyAdequate/mostly-adequate-guide )
+#### Information:
+This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript
+
+----
+
+## JavaScript Patterns and Best Practices
++ [JavaScript Enlightenment - Cody Lindley](http://bonsaiden.github.io/JavaScript-Garden/)
+#### Information:
+JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
+JavaScript Garden does not aim to teach you JavaScript. Former knowledge of the language is strongly recommended in order to understand the topics covered in this guide
+
+
++ [JavaScript Patterns Collection - Shi Chuan]( http://shichuan.github.io/javascript-patterns/ )
+#### Information:
+A JavaScript pattern and antipattern collection that covers function patterns
+
+
+
+
+
