@@ -3,8 +3,6 @@ A selected Open Source JS Resource.
 Please, if you feel any of these book are cool: buy it or support de authors!
 
 ### JavaScript Frameworks and Resources
-+ [Free JavaScript frameworks resources and tutorials - English](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md)
-
 + [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/)
 This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
 Thus, the book’s target audience is programmers who want to learn JavaScript quickly and properly, and JavaScript programmers who want to deepen their skills and/or look up specific topics.
@@ -24,6 +22,9 @@ This book is not about JavaScript design patterns or implementing an object-orie
 
 + [JavaScript Spessore - Reginald Braithwaite](https://leanpub.com/javascript-spessore)
 JavaScript Spessore will show you how to build ES5 JavaScript programs that scale in code, in time, and across a team, using the one technique that has passed the test of time: Objects and metaobjects that have a single responsibility, are decoupled from each other, and can be composed freely.
+
++ [You Don't Know JS (Book Series) - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
 ---
 
@@ -80,6 +81,15 @@ Practical concepts and techniques for rapid web application development
 
 
 
+---
+## JavaScript playground
 
++ [JSfiddle.com - online only](http://www.jsfiddle.com)
+A very interesting and complete customise playground to save our tests.
+
++ []()
+
+
++ []()
 
 
