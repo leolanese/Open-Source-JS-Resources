@@ -6,9 +6,9 @@ A selected Open Source JS Resource. Please, if you feel any of these book are co
 
 + [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/)
 #### Information:
-> This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
+<p>This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
 Thus, the book’s target audience is programmers who want to learn JavaScript quickly and properly, and JavaScript programmers who want to deepen their skills and/or look up specific topics.
-
+</p>
 
 + [Eloquent JavaScript 2nd edition - Marijn Haverbeke](http://eloquentjavascript.net/)
 #### Information:
