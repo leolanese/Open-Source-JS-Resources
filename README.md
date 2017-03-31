@@ -1,5 +1,5 @@
 # Open-Source-JS-Resources
-A selected Open Source JS Resource
+A selected Open Source JS Resource. Please, if you feel any of these book are cool: buy it or support de authors!
 
 ### JavaScript Frameworks and Resources
 + [Free JavaScript frameworks resources and tutorials - English](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md)
@@ -12,10 +12,6 @@ Thus, the book’s target audience is programmers who want to learn JavaScript q
 + [Eloquent JavaScript 2nd edition - Marijn Haverbeke](http://eloquentjavascript.net/)
 #### Information:
 This is a book about JavaScript, programming, and the wonders of the digital. 
-
-+ [Exploring ES6 - Dr. Axel Rauschmayer](http://exploringjs.com/es6/)
-#### Information:
-This book is about ECMAScript 6 (whose official name is ECMAScript 2015), a new version of JavaScript.
 
 + [JavaScript Allongé - Reginald Braithwaite](https://leanpub.com/javascript-allonge/read)
 #### Information:
@@ -32,10 +28,19 @@ JavaScript Spessore will show you how to build ES5 JavaScript programs that scal
 ----
 
 ## JavaScript ES6
++ [Exploring ES6 - Dr. Axel Rauschmayer](http://exploringjs.com/es6/)
+#### Information:
+This book is about ECMAScript 6 (whose official name is ECMAScript 2015), a new version of JavaScript.
+
 + [Understanding ECMAScript 6 - Nicholas C. Zakas]( https://leanpub.com/understandinges6/read/ )
 #### Information:
 A good understanding of ECMAScript 6 features is key for all JavaScript developers going forward. The language features introduced in ECMAScript 6 represent the foundation upon which JavaScript applications will be built for the foreseeable future. That’s where this book comes in. My hope is that you’ll read this book to learn about ECMAScript 6 features so that you’ll be ready to start using them as 
 soon as you need to.
+
++ [Practical ES6 - Nicolas Vebacqua]( https://ponyfoo.com/books/practical-es6/chapters/1#read)
+#### Information:
+A Practical Dive into ES6 and Maintainable JavaScript Modules — Modular JavaScript Book Series
+
 
 ----
 
