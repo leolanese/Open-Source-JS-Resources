@@ -10,12 +10,10 @@ Thus, the book’s target audience is programmers who want to learn JavaScript q
 </p>
 
 + [Eloquent JavaScript 2nd edition - Marijn Haverbeke](http://eloquentjavascript.net/)
-#### Information:
 This is a book about JavaScript, programming, and the wonders of the digital. 
 
 
 + [JavaScript Allongé - Reginald Braithwaite](https://leanpub.com/javascript-allonge/read)
-#### Information:
 JavaScript Allongé is a book about programming with functions, because JavaScript is a programming language built on flexible and powerful functions. JavaScript Allongé begins at the beginning, with values and expressions, and builds from there to discuss types, identity, functions, closures, scopes, and many more subjects up to working with classes and instances. In each case, JavaScript Allongé takes care to explain exactly how things work so that when you encounter a problem, you’ll know exactly what is happening and how to fix it.
 
 
