@@ -32,7 +32,6 @@ In this book we will explore applying both classical and modern design patterns 
 
 
 ----
-
 ## JavaScript ES6
 + [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017.html)
 Covers the latest versions of JavaScript as they are created.
@@ -50,25 +49,34 @@ A Practical Dive into ES6 and Maintainable JavaScript Modules — Modular JavaSc
 
 
 ----
+### JavaScript OOP
++[Understanding JavaScript OOP - Sorella ](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
 
-## JavaScript Funtional Programing Patterns and Reactive Functional Programming
+----
+## JavaScript Funtional Programing and Reactive Functional Programming
 + [Mostly adequate guide to funcional programming - Professor Frisby]( https://github.com/MostlyAdequate/mostly-adequate-guide )
 This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript
 
-+ [The introduction to Reactive Programming you've been missing - André Staltz (book)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-+ [The introduction to Reactive Programming you've been missing - André Staltz (Video)](https://egghead.io/courses/introduction-to-reactive-programming)
++ [The introduction to Reactive Programming you've been missing - André Staltz (book)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - [(Video)](https://egghead.io/courses/introduction-to-reactive-programming)
 So you're curious in learning this new thing called Reactive Programming, particularly its variant comprising of Rx, Bacon.js, RAC, and others.Learning it is hard, even harder by the lack of good material. When I started, I tried looking for tutorials. I found only a handful of practical guides, but they just scratched the surface and never tackled the challenge of building the whole architecture around it. Library documentations often don't help when you're trying to understand some function. 
 
 ----
-
 ## JavaScript Patterns and Best Practices
 + [JavaScript Enlightenment - Cody Lindley](http://bonsaiden.github.io/JavaScript-Garden/)
 JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
 JavaScript Garden does not aim to teach you JavaScript. Former knowledge of the language is strongly recommended in order to understand the topics covered in this guide
 
-
 + [JavaScript Patterns Collection - Shi Chuan]( http://shichuan.github.io/javascript-patterns/ )
 A JavaScript pattern and antipattern collection that covers function patterns
+
++ [Unit Testing Best Practices in AngularJS - Andy Shora](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+Interesting article about unit-test best practices and how to make it simple
+
+----
+## JavaScript Framework: Angular JS
++ [Recipes with Angular - Frederik Dietz](https://leanpub.com/recipes-with-angular-js/read)
+Practical concepts and techniques for rapid web application development
+
 
 
 
