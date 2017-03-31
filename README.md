@@ -9,25 +9,42 @@ A selected Open Source JS Resource. Please, if you feel any of these book are co
 This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
 Thus, the book’s target audience is programmers who want to learn JavaScript quickly and properly, and JavaScript programmers who want to deepen their skills and/or look up specific topics.
 
+
 + [Eloquent JavaScript 2nd edition - Marijn Haverbeke](http://eloquentjavascript.net/)
 #### Information:
 This is a book about JavaScript, programming, and the wonders of the digital. 
+
 
 + [JavaScript Allongé - Reginald Braithwaite](https://leanpub.com/javascript-allonge/read)
 #### Information:
 JavaScript Allongé is a book about programming with functions, because JavaScript is a programming language built on flexible and powerful functions. JavaScript Allongé begins at the beginning, with values and expressions, and builds from there to discuss types, identity, functions, closures, scopes, and many more subjects up to working with classes and instances. In each case, JavaScript Allongé takes care to explain exactly how things work so that when you encounter a problem, you’ll know exactly what is happening and how to fix it.
 
+
 + [JavaScript Enlightenment - Cody Lindley](https://leanpub.com/javascript-allonge/read)
 #### Information:
 This book is not about JavaScript design patterns or implementing an object-oriented paradigm with JavaScript code. It was not written to distinguish the good features of the JavaScript language from the bad. It is not meant to be a complete reference guide. It is not targeted at people new to programming or those completely new to JavaScript. Nor is this a cookbook of JavaScript recipes. Those books have been written.
+
 
 + [JavaScript Spessore - Reginald Braithwaite](https://leanpub.com/javascript-spessore)
 #### Information:
 JavaScript Spessore will show you how to build ES5 JavaScript programs that scale in code, in time, and across a team, using the one technique that has passed the test of time: Objects and metaobjects that have a single responsibility, are decoupled from each other, and can be composed freely.
 
+---
+
+## JavaScript Design Patterns
++ [Learning JavaScript Design Patterns - A book by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+#### Information:
+In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.
+
+
 ----
 
 ## JavaScript ES6
++ [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017.html)
+#### Information:
+Covers the latest versions of JavaScript as they are created.
+Is a book for people who already know JavaScript.
+
 + [Exploring ES6 - Dr. Axel Rauschmayer](http://exploringjs.com/es6/)
 #### Information:
 This book is about ECMAScript 6 (whose official name is ECMAScript 2015), a new version of JavaScript.
@@ -44,10 +61,15 @@ A Practical Dive into ES6 and Maintainable JavaScript Modules — Modular JavaSc
 
 ----
 
-## JavaScript Funtional Programing Patterns and Best Practices
+## JavaScript Funtional Programing Patterns and Reactive Functional Programming
 + [Mostly adequate guide to funcional programming - Professor Frisby]( https://github.com/MostlyAdequate/mostly-adequate-guide )
 #### Information:
 This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript
+
++ [The introduction to Reactive Programming you've been missing - André Staltz (book)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
++ [The introduction to Reactive Programming you've been missing - André Staltz (Video)](https://egghead.io/courses/introduction-to-reactive-programming)
+#### Information:
+So you're curious in learning this new thing called Reactive Programming, particularly its variant comprising of Rx, Bacon.js, RAC, and others.Learning it is hard, even harder by the lack of good material. When I started, I tried looking for tutorials. I found only a handful of practical guides, but they just scratched the surface and never tackled the challenge of building the whole architecture around it. Library documentations often don't help when you're trying to understand some function. 
 
 ----
 
