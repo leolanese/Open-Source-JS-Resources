@@ -88,6 +88,10 @@ This video is picked from my complete Angular 2.0 course on Udemy. You can get t
 + [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A/featured)
 Angular Tutorials: Premium Quality Tutorials on Angular and its Ecosystem https://angular-university.io The single resource a developer with a full time job needs for learning and keeping up with the fast moving Angular 2 and beyond ecosystem, by providing very focused, summarized and high quality tutorials on Angula. 
 
++ [Rangle's Angular Training Book](https://angular-2-training-book.rangle.io/)
+This book will cover the most important Angular topics, from getting started with the Angular toolchain to writing Angular applications in a scalable and maintainable manner.
+
+
 ---
 ## JavaScript playground
 
