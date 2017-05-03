@@ -82,6 +82,8 @@ Practical concepts and techniques for rapid web application development
 ---
 ## Angular 2:
 
++[AJS2+ Official Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html) The offical style guide for the framework. Contains a ton of syntax and formatting recommendations, as well as general best practices. It’s very detailed and long, but knowing Angular’s enterprise nature, you’ll probably need to go through it at some point.
+
 + [Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch](https://www.youtube.com/watch?v=_-CD_5YhJTA)
 This video is picked from my complete Angular 2.0 course on Udemy. You can get the full course with a discount here: 
 
