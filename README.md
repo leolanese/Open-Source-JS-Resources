@@ -79,7 +79,14 @@ Interesting article about unit-test best practices and how to make it simple
 + [Recipes with Angular - Frederik Dietz](https://leanpub.com/recipes-with-angular-js/read)
 Practical concepts and techniques for rapid web application development
 
+---
+## Angular 2:
 
++ [Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch](https://www.youtube.com/watch?v=_-CD_5YhJTA)
+This video is picked from my complete Angular 2.0 course on Udemy. You can get the full course with a discount here: 
+
++ [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A/featured)
+Angular Tutorials: Premium Quality Tutorials on Angular and its Ecosystem https://angular-university.io The single resource a developer with a full time job needs for learning and keeping up with the fast moving Angular 2 and beyond ecosystem, by providing very focused, summarized and high quality tutorials on Angula. 
 
 ---
 ## JavaScript playground
