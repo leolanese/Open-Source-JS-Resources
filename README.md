@@ -33,6 +33,14 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.
 
 
+---
+
+### typeScript 
+
++ [TypeScript Deep Dive - Basarat Ali Syed](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
+The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source.
+ This is based on the lessons from StackOverflow / DefinitelyTyped and general engagement with the TypeScript community.
+
 ----
 ## JavaScript ES6
 + [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017.html)
