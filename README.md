@@ -107,16 +107,18 @@ This tutorial is a practical Angular 2 resource for programmers who are building
 
 ---
 ## JavaScript playground
++ [Plunker](https://plnkr.co/)
 
-+ [JSfiddle.com - online](http://www.jsfiddle.com)
++ [JSfiddle.com](http://www.jsfiddle.com)
 
-+ [PLAYCODE](https://playcode.io/6171?tabs=app.html&style.css&script.js&output)
++ [playCode](https://playcode.io/6171?tabs=app.html&style.css&script.js&output)
 
 + [ESnextb - online ES6 test](https://esnextb.in/)
 
 + [ES6Console - online ES6](https://es6console.com/)
 
 + [SASSMEISTER - online SASS playground](http://www.sassmeister.com/gist/a07a75591ee781b42287)
+
 + [Lebab - online/offline Reverse Babel](http://lebab.io/try-it)
 
 + [JSbin - online/offline](http://jsbin.com/?html,output)
