@@ -101,6 +101,9 @@ Angular Tutorials: Premium Quality Tutorials on Angular and its Ecosystem https:
 + [Rangle's Angular Training Book](https://angular-2-training-book.rangle.io/)
 This book will cover the most important Angular topics, from getting started with the Angular toolchain to writing Angular applications in a scalable and maintainable manner.
 
++ [Angular 2 Tutorial and Examples](http://www.angulartypescript.com/angular-2-tutorial/)
+This tutorial is a practical Angular 2 resource for programmers who are building or want to build web client applications under HTML and Typescript
+
 
 ---
 ## JavaScript playground
