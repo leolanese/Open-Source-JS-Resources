@@ -43,7 +43,7 @@ The definitive guide to TypeScript and possibly the best TypeScript book :book:.
 
 ----
 ## JavaScript ES6
-+ [The road to ECMAScript 6: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop) 
++ [The road to ECMAScript 6: New solutions for old JS problems - Leo Lanese](https://github.com/leolanese/ES6_workshop) 
 A comprehensible JS ES6 introdution by examples.
 
 + [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017.html)
@@ -72,7 +72,8 @@ This is a book on the functional paradigm in general. We'll use the world's most
 + [The introduction to Reactive Programming you've been missing - André Staltz (book)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - [(Video)](https://egghead.io/courses/introduction-to-reactive-programming)
 So you're curious in learning this new thing called Reactive Programming, particularly its variant comprising of Rx, Bacon.js, RAC, and others.Learning it is hard, even harder by the lack of good material. When I started, I tried looking for tutorials. I found only a handful of practical guides, but they just scratched the surface and never tackled the challenge of building the whole architecture around it. Library documentations often don't help when you're trying to understand some function. 
 
-+ [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Functional programming (FP) provides many advantages, and its popularity has been increasing as a result. However, each programming paradigm comes with its own unique jargon and FP is no exception. By providing a glossary, we hope to make learning FP easier.
++ [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+Functional programming (FP) provides many advantages, and its popularity has been increasing as a result. However, each programming paradigm comes with its own unique jargon and FP is no exception. By providing a glossary, we hope to make learning FP easier.
 
 ----
 ## JavaScript Patterns and Best Practices
@@ -94,9 +95,11 @@ Practical concepts and techniques for rapid web application development
 ---
 ## Angular 2:
 
-+ [AJS2+ Official Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html) The offical style guide for the framework. Contains a ton of syntax and formatting recommendations, as well as general best practices. It’s very detailed and long, but knowing Angular’s enterprise nature, you’ll probably need to go through it at some point.
++ [AJS2+ Official Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html) 
+The offical style guide for the framework. Contains a ton of syntax and formatting recommendations, as well as general best practices. It’s very detailed and long, but knowing Angular’s enterprise nature, you’ll probably need to go through it at some point.
 
-+ [Official TypeScript Handbook](https://www.typescriptlang.org/docs/tutorial.html) A quick start to typescript, an easy and well documented handbook.
++ [Official TypeScript Handbook](https://www.typescriptlang.org/docs/tutorial.html) 
+A quick start to typescript, an easy and well documented handbook.
 
 + [Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch](https://www.youtube.com/watch?v=_-CD_5YhJTA)
 This video is picked from my complete Angular 2.0 course on Udemy. You can get the full course with a discount here: 
