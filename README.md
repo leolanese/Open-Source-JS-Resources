@@ -134,8 +134,9 @@ This tutorial is a practical Angular 2 resource for programmers who are building
 
 + [JSbin - online/offline](http://jsbin.com/?html,output)
 
-+ [LIVEWEAVE](http://liveweave.com/)
++ [LIVEWEAVE - online](http://liveweave.com/)
 
++ [code.sololearn.com - online](https://code.sololearn.com/#html)
 
 --
 
@@ -153,4 +154,4 @@ This tutorial is a practical Angular 2 resource for programmers who are building
 Follow me at:<a href="http://twitter.com/LeoLaneseltd" target="_blank">http://twitter.com/LeoLaneseltd</a><br>
 
 # Questions / Suggestion / Recommendation ?<br>
-<a href="mail:to">angularjs@leolanese.com</a><br>
+<a href="mail:to">developer@leolanese.com</a><br>
