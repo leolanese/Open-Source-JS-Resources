@@ -59,6 +59,8 @@ soon as you need to.
 + [Practical ES6 - Nicolas Vebacqua]( https://ponyfoo.com/books/practical-es6/chapters/1#read)
 A Practical Dive into ES6 and Maintainable JavaScript Modules — Modular JavaScript Book Series
 
++ [ES6 Features](https://codetower.github.io/es6-features/)
+Does the world need another list of ES6 features? Maybe not, but this one seems very technical in its explanations, which I’m sure many experienced programmers moving to JavaScript will appreciate. There are also lots of interactive code examples used for each feature.
 
 ----
 ### JavaScript OOP
