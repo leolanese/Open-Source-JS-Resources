@@ -3,7 +3,7 @@ A selected Open Source JS Resource.
 Please, if you feel any of these book are cool: buy it or support de authors!
 
 ### JavaScript Frameworks and Resources
-+ [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/)
++ [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/) 
 This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
 Thus, the book’s target audience is programmers who want to learn JavaScript quickly and properly, and JavaScript programmers who want to deepen their skills and/or look up specific topics.
 
@@ -43,11 +43,11 @@ The definitive guide to TypeScript and possibly the best TypeScript book :book:.
 
 ----
 ## JavaScript ES6
-+ [The road to ECMAScript 6: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop) A comprehensible JS ES6 introdution by examples.
++ [The road to ECMAScript 6: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop) 
+A comprehensible JS ES6 introdution by examples.
 
 + [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017.html)
-Covers the latest versions of JavaScript as they are created.
-Is a book for people who already know JavaScript.
+Covers the latest versions of JavaScript as they are created. It is a book for people who already know JavaScript.
 
 + [Exploring ES6 - Dr. Axel Rauschmayer](http://exploringjs.com/es6/)
 This book is about ECMAScript 6 (whose official name is ECMAScript 2015), a new version of JavaScript.
