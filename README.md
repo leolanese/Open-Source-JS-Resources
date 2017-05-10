@@ -70,6 +70,8 @@ This is a book on the functional paradigm in general. We'll use the world's most
 + [The introduction to Reactive Programming you've been missing - André Staltz (book)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - [(Video)](https://egghead.io/courses/introduction-to-reactive-programming)
 So you're curious in learning this new thing called Reactive Programming, particularly its variant comprising of Rx, Bacon.js, RAC, and others.Learning it is hard, even harder by the lack of good material. When I started, I tried looking for tutorials. I found only a handful of practical guides, but they just scratched the surface and never tackled the challenge of building the whole architecture around it. Library documentations often don't help when you're trying to understand some function. 
 
++ [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Functional programming (FP) provides many advantages, and its popularity has been increasing as a result. However, each programming paradigm comes with its own unique jargon and FP is no exception. By providing a glossary, we hope to make learning FP easier.
+
 ----
 ## JavaScript Patterns and Best Practices
 + [JavaScript Enlightenment - Cody Lindley](http://bonsaiden.github.io/JavaScript-Garden/)
