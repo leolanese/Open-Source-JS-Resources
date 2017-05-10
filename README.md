@@ -43,6 +43,8 @@ The definitive guide to TypeScript and possibly the best TypeScript book :book:.
 
 ----
 ## JavaScript ES6
++ [The road to ECMAScript 6: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop) A comprehensible JS ES6 introdution by examples.
+
 + [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017.html)
 Covers the latest versions of JavaScript as they are created.
 Is a book for people who already know JavaScript.
