@@ -141,7 +141,7 @@ This tutorial is a practical Angular 2 resource for programmers who are building
 --
 
 ## { 'L e o   L a n e s e',
-### 'I  B u i l d   I n s p i r i n g   SPA R e s p o n s i v e   S o l u t i o n s',
+### 'I  B u i l d   I n s p i r i n g   S P A   R e s p o n s i v e   S o l u t i o n s',
 ### 'L O N D O N ,  U K' }
 
 # My Portfolio<br>
