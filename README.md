@@ -120,7 +120,7 @@ This tutorial is a practical Angular 2 resource for programmers who are building
 
 ### JS and many others
 + [w3cub](http://docs.w3cub.com/) 
-Several container with information divided into technologies and  version.
+Several containers with information divided into technologies and versions
 
 ---
 ## JavaScript playground
