@@ -2,6 +2,7 @@
 A selected Open Source JS Resource. 
 Please, if you feel any of these book are cool: buy it or support de authors!
 
+
 ### JavaScript Frameworks and Resources
 + [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/) 
 This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
@@ -115,6 +116,11 @@ This book will cover the most important Angular topics, from getting started wit
 + [Angular 2 Tutorial and Examples](http://www.angulartypescript.com/angular-2-tutorial/)
 This tutorial is a practical Angular 2 resource for programmers who are building or want to build web client applications under HTML and Typescript
 
+---
+
+### JS and many others
++ [w3cub](http://docs.w3cub.com/) 
+Several container with information divided into technologies and  version.
 
 ---
 ## JavaScript playground
