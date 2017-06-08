@@ -38,9 +38,11 @@ In this book we will explore applying both classical and modern design patterns 
 
 ### typeScript 
 
-+ [TypeScript Deep Dive - Basarat Ali Syed](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
++ [TypeScript Deep Dive - Basarat Ali Syed](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html) -
 The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source.
  This is based on the lessons from StackOverflow / DefinitelyTyped and general engagement with the TypeScript community.
+ 
++ [TypeScript - Handbook](https://github.com/Microsoft/TypeScript-Handbook/tree/master/pages) - For programs to be useful, we need to be able to work with some of the simplest units of data: numbers, strings, structures, boolean values, and the like. In TypeScript, we support much the same types as you would expect in JavaScript, with a convenient enumeration type thrown in to help things along.
 
 ----
 ## JavaScript ES6
