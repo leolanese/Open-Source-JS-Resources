@@ -10,8 +10,8 @@ Please, if you feel any of these book are cool: buy it or support de authors!
 
 ### Reactive Programming
 
-+[The introduction to Reactive Programming you've been missing(github docs)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-+The introduction to Reactive Programming you've been missing (video)](https://egghead.io/courses/introduction-to-reactive-programming)
++ [The introduction to Reactive Programming you've been missing (github docs) - staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
++ [The introduction to Reactive Programming you've been missing (video) - staltz](https://egghead.io/courses/introduction-to-reactive-programming) This tutorial as a series of videos
 
 ---
 
