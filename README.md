@@ -8,6 +8,13 @@ Please, if you feel any of these book are cool: buy it or support de authors!
 
 ---
 
+### Reactive Programming
+
++[The introduction to Reactive Programming you've been missing(github docs)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
++The introduction to Reactive Programming you've been missing (video)](https://egghead.io/courses/introduction-to-reactive-programming)
+
+---
+
 ### JavaScript Frameworks and Resources
 + [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/) 
 This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
