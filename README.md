@@ -2,6 +2,8 @@
 A selected Open Source JS Resource. 
 Please, if you feel any of these book are cool: buy it or support de authors!
 
+### RxJs
++ [Learn RxJS](https://www.gitbook.com/book/btroncone/learn-rxjs/details) Clear examples, explanations, and resources for RxJS.
 
 ### JavaScript Frameworks and Resources
 + [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/) 
