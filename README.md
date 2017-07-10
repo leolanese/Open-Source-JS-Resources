@@ -112,6 +112,8 @@ Practical concepts and techniques for rapid web application development
 ---
 ## Angular 2/4:
 
++ [docs.w3cub.com](http://docs.w3cub.com/angular~4_typescript/) This page describes the Angular documentation at a high level. 
+
 + [codecraft.tv](https://codecraft.tv/courses/angular/quickstart/overview/)In this quickstart you get a 50,000 foot view of the major features of Angular and since we use a web editor it means you can get stuck in writing code ASAP without having to spend ages setting up your computer.
 
 + [AJS2+ Official Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html) 
