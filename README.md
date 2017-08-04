@@ -145,6 +145,17 @@ This book will cover the most important Angular topics, from getting started wit
 This tutorial is a practical Angular 2 resource for programmers who are building or want to build web client applications under HTML and Typescript
 
 ---
+### Extra:
+#### CSS Flexbox
+
++ [Flexible Boxes interactive playground](http://flexible-boxes.wstone.io) 
+Flexbox interactive playground
+
++ []()
+
+
++ []()
+---
 
 ### JS and many others
 + [w3cub](http://docs.w3cub.com/) 
