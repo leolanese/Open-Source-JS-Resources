@@ -92,14 +92,14 @@ Does the world need another list of ES6 features? Maybe not, but this one seems 
 + [Understanding JavaScript OOP - Sorella ](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
 
 ----
-## JavaScript Funtional Programing and Reactive Functional Programming
+## JavaScript Funtional Programing 
 + [Mostly adequate guide to funcional programming - Professor Frisby]( https://github.com/MostlyAdequate/mostly-adequate-guide )
 This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript
 
 + [The introduction to Reactive Programming you've been missing - André Staltz (book)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - [(Video)](https://egghead.io/courses/introduction-to-reactive-programming)
 So you're curious in learning this new thing called Reactive Programming, particularly its variant comprising of Rx, Bacon.js, RAC, and others.Learning it is hard, even harder by the lack of good material. When I started, I tried looking for tutorials. I found only a handful of practical guides, but they just scratched the surface and never tackled the challenge of building the whole architecture around it. Library documentations often don't help when you're trying to understand some function. 
 
-+ [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
++ [Functional Programming by hemanth](https://github.com/hemanth/functional-programming-jargon)
 Functional programming (FP) provides many advantages, and its popularity has been increasing as a result. However, each programming paradigm comes with its own unique jargon and FP is no exception. By providing a glossary, we hope to make learning FP easier.
 
 ----
@@ -168,6 +168,10 @@ A flex container establishes a new flex formatting context for its contents. Thi
 
 + [codepen.io - Flexbox playground by @enxaneta](https://codepen.io/enxaneta/full/adLPwv)
 Few nices examples and flexbox playground
+
+
++ [](http://flexbox.help/)
+Test CSS texgox playground
 
 ---
 
