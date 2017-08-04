@@ -165,6 +165,10 @@ Defined in the CSS Grid Specification are the ways in which grid interacts with 
 
 + [http://yoksel.github.io](http://yoksel.github.io/flex-cheatsheet/#display)
 A flex container establishes a new flex formatting context for its contents. This is the same as establishing a block formatting context, except that flex layout is used instead of block layout. For example, floats do not intrude into the flex container, and the flex container’s margins do not collapse with the margins of its contents. Flex containers form a containing block for their contents exactly like block containers do. The overflow property applies to flex containers.
+
++ [codepen.io - Flexbox playground by @enxaneta](https://codepen.io/enxaneta/full/adLPwv)
+Few nices examples and flexbox playground
+
 ---
 
 ### JS and many others
