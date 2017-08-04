@@ -104,6 +104,9 @@ Functional programming (FP) provides many advantages, and its popularity has bee
 
 ----
 ## JavaScript Patterns and Best Practices
++ [JS - Best Practices - Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
+This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
+
 + [JavaScript Enlightenment - Cody Lindley](http://bonsaiden.github.io/JavaScript-Garden/)
 JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
 JavaScript Garden does not aim to teach you JavaScript. Former knowledge of the language is strongly recommended in order to understand the topics covered in this guide
@@ -145,16 +148,23 @@ This book will cover the most important Angular topics, from getting started wit
 This tutorial is a practical Angular 2 resource for programmers who are building or want to build web client applications under HTML and Typescript
 
 ---
+### Full Stack
+
++ [JavaScript Stack from Scratch - Jonathan Verrecchia](https://github.com/verekia/js-stack-from-scratch)
+This is a straight-to-the-point guide to assembling a JavaScript stack. It requires some general programming knowledge, and JavaScript basics. It focuses on wiring tools together and giving you the simplest possible example for each tool. You can see this tutorial as a way to write your own boilerplate from scratch. Since the goal of this tutorial is to assemble various tools, I do not go into details about how these tools work individually. Refer to their documentation or find other tutorials if you want to acquire deeper knowledge in them.
+
+---
 ### Extra:
-#### CSS Flexbox
+#### CSS Flexbox and Grid 
 
 + [Flexible Boxes interactive playground](http://flexible-boxes.wstone.io) 
 Flexbox interactive playground
 
-+ []()
++ [rachelandrew.co.uk - Grid "fallbacks" and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+Defined in the CSS Grid Specification are the ways in which grid interacts with other layout methods. These definitions mean that as soon as an item becomes a grid item, other behaviour that you may have used for older browsers is overwritten. This means that you do not have to completely fork your code and build two versions. Where you do need to overwrite CSS used for older browsers, you can do so inside a CSS Feature Query. This enables safe encapsulation of any CSS you only want a grid supporting browser to apply.
 
-
-+ []()
++ [http://yoksel.github.io](http://yoksel.github.io/flex-cheatsheet/#display)
+A flex container establishes a new flex formatting context for its contents. This is the same as establishing a block formatting context, except that flex layout is used instead of block layout. For example, floats do not intrude into the flex container, and the flex container’s margins do not collapse with the margins of its contents. Flex containers form a containing block for their contents exactly like block containers do. The overflow property applies to flex containers.
 ---
 
 ### JS and many others
