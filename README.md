@@ -125,6 +125,9 @@ Practical concepts and techniques for rapid web application development
 ---
 ## Angular 2/4:
 
++ [Official Angular](https://angular.io/guide/styleguide)
+AJS2+ official guideline. Opinionated guide to Angular syntax, conventions, and application structure? Step right in! This style guide presents preferred conventions and, as importantly, explains why.
+
 + [docs.w3cub.com](http://docs.w3cub.com/angular~4_typescript/) This page describes the Angular documentation at a high level. 
 
 + [codecraft.tv](https://codecraft.tv/courses/angular/quickstart/overview/)In this quickstart you get a 50,000 foot view of the major features of Angular and since we use a web editor it means you can get stuck in writing code ASAP without having to spend ages setting up your computer.
@@ -157,8 +160,17 @@ This is a straight-to-the-point guide to assembling a JavaScript stack. It requi
 ### Extra:
 #### CSS Flexbox and Grid 
 
++ [codeply](https://www.codeply.com/)
+Responsive Design Playground & Frontend Editor. Use, compare & test responsive frameworks. Find code snippets & examples.
+
 + [Flexible Boxes interactive playground](http://flexible-boxes.wstone.io) 
 Flexbox interactive playground
+
++ [flexbox help](http://flexbox.help/)
+Test CSS texgox playground
+
++ [codepen.io - Flexbox playground by @enxaneta](https://codepen.io/enxaneta/full/adLPwv)
+Few nices examples and flexbox playground
 
 + [rachelandrew.co.uk - Grid "fallbacks" and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 Defined in the CSS Grid Specification are the ways in which grid interacts with other layout methods. These definitions mean that as soon as an item becomes a grid item, other behaviour that you may have used for older browsers is overwritten. This means that you do not have to completely fork your code and build two versions. Where you do need to overwrite CSS used for older browsers, you can do so inside a CSS Feature Query. This enables safe encapsulation of any CSS you only want a grid supporting browser to apply.
@@ -166,12 +178,8 @@ Defined in the CSS Grid Specification are the ways in which grid interacts with 
 + [http://yoksel.github.io](http://yoksel.github.io/flex-cheatsheet/#display)
 A flex container establishes a new flex formatting context for its contents. This is the same as establishing a block formatting context, except that flex layout is used instead of block layout. For example, floats do not intrude into the flex container, and the flex container’s margins do not collapse with the margins of its contents. Flex containers form a containing block for their contents exactly like block containers do. The overflow property applies to flex containers.
 
-+ [codepen.io - Flexbox playground by @enxaneta](https://codepen.io/enxaneta/full/adLPwv)
-Few nices examples and flexbox playground
-
-
-+ [](http://flexbox.help/)
-Test CSS texgox playground
++ [rxviz](https://rxviz.com/)
+Animated playground for Rx Observables. Visualize any Rx Observable, and export SVG of the marble diagram.
 
 ---
 
