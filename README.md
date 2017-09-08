@@ -160,9 +160,6 @@ This is a straight-to-the-point guide to assembling a JavaScript stack. It requi
 ### Extra:
 #### CSS Flexbox and Grid 
 
-+ [codeply](https://www.codeply.com/)
-Responsive Design Playground & Frontend Editor. Use, compare & test responsive frameworks. Find code snippets & examples.
-
 + [Flexible Boxes interactive playground](http://flexible-boxes.wstone.io) 
 Flexbox interactive playground
 
@@ -189,6 +186,10 @@ Several containers with information divided into technologies and versions
 
 ---
 ## JavaScript playground
+
++ [codeply](https://www.codeply.com/)
+Responsive Design Playground & Frontend Editor. Use, compare & test responsive frameworks. Find code snippets & examples.
+
 + [Plunker](https://plnkr.co/)
 
 + [JSfiddle.com](http://www.jsfiddle.com)
