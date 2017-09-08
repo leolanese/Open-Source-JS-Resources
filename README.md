@@ -69,9 +69,9 @@ The definitive guide to TypeScript and possibly the best TypeScript book :book:.
 ----
 ## JavaScript ES6
 + [The road to ECMAScript 6: New solutions for old JS problems - Leo Lanese](https://github.com/leolanese/ES6_workshop) 
-A comprehensible JS ES6 introdution by examples.
+A comprehensible JS ES6+ introdution by examples.
 
-+ [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017.html)
++ [Exploring ES2016 & ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017.html)
 Covers the latest versions of JavaScript as they are created. It is a book for people who already know JavaScript.
 
 + [Exploring ES6 - Dr. Axel Rauschmayer](http://exploringjs.com/es6/)
@@ -123,7 +123,7 @@ Interesting article about unit-test best practices and how to make it simple
 Practical concepts and techniques for rapid web application development
 
 ---
-## Angular 2/4:
+## Angular 2+:
 
 + [Official Angular](https://angular.io/guide/styleguide)
 AJS2+ official guideline. Opinionated guide to Angular syntax, conventions, and application structure? Step right in! This style guide presents preferred conventions and, as importantly, explains why.
