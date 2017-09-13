@@ -190,9 +190,13 @@ Several containers with information divided into technologies and versions
 + [codeply](https://www.codeply.com/)
 Responsive Design Playground & Frontend Editor. Use, compare & test responsive frameworks. Find code snippets & examples.
 
++ [sequential](https://sequential.js.org/)
+The no-nonsense JavaScript code playground
+
 + [Plunker](https://plnkr.co/)
 
 + [JSfiddle.com](http://www.jsfiddle.com)
+A classic, one of the best playgrounds out there
 
 + [playCode](https://playcode.io/6171?tabs=app.html&style.css&script.js&output)
 
