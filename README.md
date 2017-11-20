@@ -187,6 +187,9 @@ Several containers with information divided into technologies and versions
 ---
 ## JavaScript playground
 
++ [stackblitz](https://stackblitz.com/)
+Online VS Code IDE for Ionic, Angular & React.
+
 + [codeply](https://www.codeply.com/)
 Responsive Design Playground & Frontend Editor. Use, compare & test responsive frameworks. Find code snippets & examples.
 
@@ -194,6 +197,7 @@ Responsive Design Playground & Frontend Editor. Use, compare & test responsive f
 The no-nonsense JavaScript code playground
 
 + [Plunker](https://plnkr.co/)
+A good playground, nice
 
 + [JSfiddle.com](http://www.jsfiddle.com)
 A classic, one of the best playgrounds out there
@@ -217,7 +221,7 @@ A classic, one of the best playgrounds out there
 --
 
 ## { 'L e o   L a n e s e',
-### 'I  B u i l d   I n s p i r i n g   S P A   R e s p o n s i v e   S o l u t i o n s',
+### 'I  B u i l d   I n s p i r i n g   R e s p o n s i v e   R e a c t i v e   S o l u t i o n s',
 ### 'L O N D O N ,  U K' }
 
 # My Portfolio<br>
