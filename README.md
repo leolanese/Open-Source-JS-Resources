@@ -2,6 +2,11 @@
 A selected Open Source JS Resource. 
 Please, if you feel any of these book are cool: buy it or support de authors!
 
+### Redux
++ [Redux - Introduction - paulkogel](https://paulkogel.gitbooks.io/redux-docs/content/index.html) General introduction to Redux
+
+---
+
 ### RxJs
 + [RxJS v4.0 - xgrommx](https://xgrommx.github.io/rx-book/) Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators.
 + [Learn RxJS - (github docs)](https://www.gitbook.com/book/btroncone/learn-rxjs/details) Clear examples, explanations, and resources for RxJS.
