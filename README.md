@@ -5,6 +5,8 @@ Please, if you feel any of these book are cool: buy it or support de authors!
 ### Redux
 + [Redux - Introduction - paulkogel](https://paulkogel.gitbooks.io/redux-docs/content/index.html) General introduction to Redux
 
++ [Redux - Learn Redux](https://redux.js.org/) Learn Redux
+
 ---
 
 ### RxJs
