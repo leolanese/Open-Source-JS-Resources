@@ -109,15 +109,19 @@ So you're curious in learning this new thing called Reactive Programming, partic
 + [Functional Programming by hemanth](https://github.com/hemanth/functional-programming-jargon)
 Functional programming (FP) provides many advantages, and its popularity has been increasing as a result. However, each programming paradigm comes with its own unique jargon and FP is no exception. By providing a glossary, we hope to make learning FP easier.
 
++ [Functional programming tutorial - ZaninAndrea](https://github.com/ZaninAndrea/functional-programming-tutorial) Practical introduction to Functional Programming with JS
+
 + [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) 
 This course teaches the ubiquitous abstractions for modeling pure functional programs. Functional languages have adopted these algebraic constructs across the board as a way to compose applications in a principled way.
 We can do the same in JavaScript. While the subject matter will move beyond the functional programming basics, no previous knowledge of functional programming is required. You'll start composing functionality before you know it.
+
++ [Why Functional Programming Matters - John Hughes The University, Glasgow](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 
 + [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) 
 A funny and educational introduction to functional programming features.
 
 + [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
-series about functional programming called Thinking in Ramda.
+Series about functional programming called Thinking in Ramda.
 
 ----
 ## JavaScript Patterns and Best Practices
