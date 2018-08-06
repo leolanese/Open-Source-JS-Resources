@@ -99,7 +99,14 @@ Does the world need another list of ES6 features? Maybe not, but this one seems 
 + [Understanding JavaScript OOP - Sorella ](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
 
 ----
-## JavaScript Funtional Programing 
+## Funtional Programing
++ [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+Many functional programming articles teach abstract functional techniques. That is, composition, pipelining, higher order functions. This one is different. It shows examples of imperative, unfunctional code that people write every day and translates these examples to a functional style.
+
+The first section of the article takes short, data transforming loops and translates them into functional maps and reduces. The second section takes longer loops, breaks them up into units and makes each unit functional. The third section takes a loop that is a long series of successive data transformations and decomposes it into a functional pipeline.
+
+The examples are in Python, because many people find Python easy to read. A number of the examples eschew pythonicity in order to demonstrate functional techniques common to many languages: map, reduce, pipeline.
+
 + [Mostly adequate guide to funcional programming - Professor Frisby]( https://github.com/MostlyAdequate/mostly-adequate-guide )
 This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript
 
