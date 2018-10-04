@@ -127,6 +127,9 @@ We can do the same in JavaScript. While the subject matter will move beyond the 
 + [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) 
 A funny and educational introduction to functional programming features.
 
++ [Functional Programming HOWTO - Author:	A. M. Kuchling](https://docs.python.org/3/howto/functional.html)
+In this document, we’ll take a tour of Python’s features suitable for implementing programs in a functional style. After an introduction to the concepts of functional programming, we’ll look at language features such as iterators and generators and relevant library modules such as itertools and functools.
+
 + [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 Series about functional programming called Thinking in Ramda.
 
