@@ -8,6 +8,18 @@ Please, if you feel any of these book are cool: buy it or support de authors!
 + [Redux - Learn Redux](https://redux.js.org/) Learn Redux
 
 ---
+### Python
+
++ [Automate the Boring Stuff - Al Sweigart](http://automatetheboringstuff.com/chapter0/)
+
++ [A Byte of Python](https://python.swaroopch.com/) 
+
++ [Functional Programming in Python -David Mertz - David Mertz](https://www.oreilly.com/programming/free/functional-programming-python.csp) Python is not a functional programming language, but it is a multi-paradigm language that makes functional programming easy to perform, and easy to mix with other programming styles. In this paper, David Mertz, a director of Python Software Foundation, examines the functional aspects of the language and points out which options work well and which ones you should generally decline.
+
++ [The Little Book of Python Anti-Patterns - Andreas Dewes & Christoph Neumann](http://docs.quantifiedcode.com/python-anti-patterns/) Learning about these anti-patterns will help you to avoid them in your own code and make you a better programmer (hopefully). Each pattern comes with a small description, examples and possible solutions. 
+
++ [Welcome to Python for you and me](https://pymbook.readthedocs.io/en/latest/) This is a simple book to learn Python programming language, it is for the programmers who are new to Python.
+---
 
 ### RxJs
 + [RxJS v4.0 - xgrommx](https://xgrommx.github.io/rx-book/) Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators.
