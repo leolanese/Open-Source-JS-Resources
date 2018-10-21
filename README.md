@@ -8,6 +8,12 @@ Please, if you feel any of these book are cool: buy it or support de authors!
 + [Redux - Learn Redux](https://redux.js.org/) Learn Redux
 
 ---
+
+### Jenkins
+
++ [Jenkins The Definitive Guid - John Ferguson Smart ](https://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf)
+
+---
 ### Python
 
 + [Automate the Boring Stuff - Al Sweigart](http://automatetheboringstuff.com/chapter0/)
