@@ -118,12 +118,9 @@ Does the world need another list of ES6 features? Maybe not, but this one seems 
 
 ----
 ## Funtional Programing
-+ [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
-Many functional programming articles teach abstract functional techniques. That is, composition, pipelining, higher order functions. This one is different. It shows examples of imperative, unfunctional code that people write every day and translates these examples to a functional style.
++ [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming) Many functional programming articles teach abstract functional techniques. That is, composition, pipelining, higher order functions. This one is different. It shows examples of imperative, unfunctional code that people write every day and translates these examples to a functional style.
 
-The first section of the article takes short, data transforming loops and translates them into functional maps and reduces. The second section takes longer loops, breaks them up into units and makes each unit functional. The third section takes a loop that is a long series of successive data transformations and decomposes it into a functional pipeline.
-
-The examples are in Python, because many people find Python easy to read. A number of the examples eschew pythonicity in order to demonstrate functional techniques common to many languages: map, reduce, pipeline.
++ [Functional Programming - How To](https://docs.python.org/3/howto/functional.html)In this document, we’ll take a tour of Python’s features suitable for implementing programs in a functional style. 
 
 + [Mostly adequate guide to funcional programming - Professor Frisby]( https://github.com/MostlyAdequate/mostly-adequate-guide )
 This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript
@@ -136,11 +133,11 @@ Functional programming (FP) provides many advantages, and its popularity has bee
 
 + [Functional programming tutorial - ZaninAndrea](https://github.com/ZaninAndrea/functional-programming-tutorial) Practical introduction to Functional Programming with JS
 
-+ [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) 
-This course teaches the ubiquitous abstractions for modeling pure functional programs. Functional languages have adopted these algebraic constructs across the board as a way to compose applications in a principled way.
++ [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) This course teaches the ubiquitous abstractions for modeling pure functional programs. Functional languages have adopted these algebraic constructs across the board as a way to compose applications in a principled way.
 We can do the same in JavaScript. While the subject matter will move beyond the functional programming basics, no previous knowledge of functional programming is required. You'll start composing functionality before you know it.
 
-+ [Why Functional Programming Matters - John Hughes The University, Glasgow](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
++ [Why Functional Programming Matters - John Hughes The University, Glasgow](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) As software becomes more and more complex, it is more and more
+important to structure it well. Well-structured software is easy to write and to debug, and provides a collection of modules that can be reused to reduce future programming costs. In this paper we show that two features of functional languages in particular, higher-order functions and lazy evaluation, can contribute significantly to modularity.
 
 + [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) 
 A funny and educational introduction to functional programming features.
