@@ -21,13 +21,12 @@ Please, if you feel any of these book are cool: buy it or support de authors!
 + [A Byte of Python](https://python.swaroopch.com/) 
 
 + [Functional Programming in Python -David Mertz - David Mertz](https://www.oreilly.com/programming/free/functional-programming-python.csp) Python is not a functional programming language, but it is a multi-paradigm language that makes functional programming easy to perform, and easy to mix with other programming styles. In this paper, David Mertz, a director of Python Software Foundation, examines the functional aspects of the language and points out which options work well and which ones you should generally decline.
-
 + [The Little Book of Python Anti-Patterns - Andreas Dewes & Christoph Neumann](http://docs.quantifiedcode.com/python-anti-patterns/) Learning about these anti-patterns will help you to avoid them in your own code and make you a better programmer (hopefully). Each pattern comes with a small description, examples and possible solutions. 
-
 + [Welcome to Python for you and me](https://pymbook.readthedocs.io/en/latest/) This is a simple book to learn Python programming language, it is for the programmers who are new to Python.
 ---
 
 ### RxJs
+
 + [RxJS v4.0 - xgrommx](https://xgrommx.github.io/rx-book/) Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators.
 + [Learn RxJS - (github docs)](https://www.gitbook.com/book/btroncone/learn-rxjs/details) Clear examples, explanations, and resources for RxJS.
 + [RxJS lessons - egghead.io](https://egghead.io/technologies/rx) 
@@ -51,6 +50,7 @@ Clear examples, explanations, and resources for RxJS.
 ---
 
 ### JavaScript Frameworks and Resources
+
 + [Speaking JavaScript - Dr. Axel Rauschmayer](http://speakingjs.com/es5/) 
 This book has been written for programmers, by a programmer. So, in order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, C#, or Perl.
 Thus, the book’s target audience is programmers who want to learn JavaScript quickly and properly, and JavaScript programmers who want to deepen their skills and/or look up specific topics.
@@ -77,6 +77,7 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 ---
 
 ## JavaScript Design Patterns
+
 + [Learning JavaScript Design Patterns - A book by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.
 
@@ -93,6 +94,7 @@ The definitive guide to TypeScript and possibly the best TypeScript book :book:.
 
 ----
 ## JavaScript ES6
+
 + [The road to ECMAScript 6: New solutions for old JS problems - Leo Lanese](https://github.com/leolanese/ES6_workshop) 
 A comprehensible JS ES6+ introdution by examples.
 
@@ -114,10 +116,19 @@ Does the world need another list of ES6 features? Maybe not, but this one seems 
 
 ----
 ### JavaScript OOP
+
 + [Understanding JavaScript OOP - Sorella ](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
 
 ----
 ## Funtional Programing
+
++ [Getting Functional with Javascript part1](http://www.datchley.name/getting-functional-with-javascript-part-1/)
++ [Getting Functional with Javascript part2](http://www.datchley.name/getting-functional-with-javascript-part-2/)
++ [Getting Functional with Javascript part3](http://www.datchley.name/getting-functional-with-javascript-part-3/)
+Demonstrates FP concepts by showing how to filter, group, and sort an array of data. Lots of good descriptions, samples, and explanations.
+
++ [Functional javascript Mini book](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)This tiny book may only take you 2 hours to read, but it may take you to a journey of experiencing almost all the functional way of writing code in JavaScript. And It will cover some of the new feature come with ECMAScript 6 like arrow function, pattern matching etc. Further more, I will list the implementations of some fancy typeclasses from Haskell in JavaScript.
+
 + [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming) Many functional programming articles teach abstract functional techniques. That is, composition, pipelining, higher order functions. This one is different. It shows examples of imperative, unfunctional code that people write every day and translates these examples to a functional style.
 
 + [Functional Programming - How To](https://docs.python.org/3/howto/functional.html)In this document, we’ll take a tour of Python’s features suitable for implementing programs in a functional style. 
@@ -150,6 +161,7 @@ Series about functional programming called Thinking in Ramda.
 
 ----
 ## JavaScript Patterns and Best Practices
+
 + [JS - Best Practices - Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
 This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
 
